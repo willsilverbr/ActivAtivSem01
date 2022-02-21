@@ -11,7 +11,7 @@ namespace AtivSem01
         static void Main(string[] args)
         {
 
-            //Variaveis de Controle para continuar ou sair do sistema (do while)//
+            ///Variaveis de Controle para continuar ou sair do sistema (do while)//
 
             char opcao;
             bool sair;
